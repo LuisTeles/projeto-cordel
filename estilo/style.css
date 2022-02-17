@@ -33,7 +33,7 @@ header > h1{
     /* text-transform: uppercase; */
     font-variant: small-caps; /*Fist letter in upper case*/
     font-family: var(--fonte2);
-    font-size: 3em;
+    font-size: 6.5vw;
 }
 
 header > p{
